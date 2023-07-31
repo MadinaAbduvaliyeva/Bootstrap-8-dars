@@ -1,0 +1,39 @@
+.block{
+    position: relative;
+    top: 100px;
+}
+.item{
+    height: 70px;
+    border: 3px solid white;
+    color: white;
+    background-color: #0eaee9;
+    text-align: center;
+}
+.item2{
+    height: 230px;
+    background-color: #0eaee9;
+    color: white;
+    border: 3px solid white;
+    text-align: center;
+}
+.item-q{
+    height: 50px;
+    color: white;
+    background-color: #e9373b;
+    text-align: center;
+    border: 3px solid  #0eaee9 ;
+}
+.item-y{
+    height: 50px;
+    color: white;
+    background-color: #30df1c;
+    text-align: center;
+    border: 3px solid  #0eaee9 ;
+}
+.item-k{
+    height: 50px;
+    color: white;
+    background-color: #4e555b;
+    text-align: center;
+    border: 3px solid  #0eaee9 ;
+}
